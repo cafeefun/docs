@@ -4,6 +4,7 @@
 
 ## FAQ
 
+* [Fomo Rules](faq/fomo-rules.md)
 * [How to get start ?](faq/how-to-get-start.md)
 
 ## DEV
