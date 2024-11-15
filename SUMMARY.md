@@ -10,6 +10,10 @@
 ## DEV
 
 * [Bonding Curve](dev/bonding-curve.md)
+* [Protocols](dev/protocols/README.md)
+  * [Trading protocol](dev/protocols/trading-protocol.md)
+  * [Lending protocol](dev/protocols/lending-protocol.md)
+  * [Spot leverage protocol](dev/protocols/spot-leverage-protocol.md)
 * [Contract Interface](dev/contract-interface/README.md)
   * [Factory.sol](dev/contract-interface/factory.sol.md)
   * [Pair.sol](dev/contract-interface/pair.sol.md)
